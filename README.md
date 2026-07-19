@@ -110,14 +110,23 @@ supports English and Simplified Chinese.
 ## Support Quiver
 
 If Quiver saves you time, you can voluntarily support its continued
-development. These temporary personal collection codes are for tips only—not
+development.
+
+[![Buy me a book](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=ares960826w&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/ares960826w)
+
+The temporary personal collection codes below are for voluntary tips only—not
 payment for a product or service. Always verify the recipient shown by your
 payment app before confirming.
 
 | Alipay | WeChat Pay |
 |:---:|:---:|
-| <img src="assets/support/alipay-qr.JPG" width="220" alt="Alipay voluntary support QR code"> | <img src="assets/support/wechat-pay-qr.JPG" width="220" alt="WeChat Pay voluntary support QR code"> |
+| <img src="assets/support/alipay-qr.PNG" width="220" alt="Alipay voluntary support QR code"> | <img src="assets/support/wechat-pay-qr.JPG" width="220" alt="WeChat Pay voluntary support QR code"> |
+
+Thank you to everyone who keeps Quiver moving. See the
+[Sponsor List](SPONSOR_LIST.md). Buy Me a Coffee supporters can include the
+display name they want published in their message; Alipay and WeChat Pay
+supporters remain anonymous unless they explicitly authorize publication.
 
 Quiver does not place ads inside the app, track prompt contents or sell access
-to user data. Partnership contact and international support options will be
-added here after verification.
+to user data. Partnership contact and additional support options will be added
+here after verification.
