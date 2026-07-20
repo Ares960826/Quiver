@@ -6,12 +6,24 @@
 
 **A local-first prompt manager and reusable template launcher for macOS.**
 
-![Save a proven prompt, mark what changes, then fill and reuse it anywhere](assets/readme/reuse-flow.svg)
+![From painstaking prompt writing, through slot extraction and an Arrow saved in a quiver, to fast reuse on the next task](assets/readme/reuse-story.jpg)
 
 ## Why Quiver?
 
+Still keeping your best prompts scattered across Notion, Typora and Obsidian?
+Still hunting them down and copy-pasting line by line—your little finger did
+not sign up for a full-time shortcut job.
+
+A prompt you spent an hour polishing works brilliantly once, then disappears
+before the next similar task. The actual job takes five minutes; rebuilding
+the prompt takes two hours.
+
+Quiver gives valuable wording a permanent launchpad. Save it once as an Arrow,
+carve the changing words into slots, and next time fill only what is new:
+search, complete, launch.
+
 Some prompts are too valuable to reconstruct from memory, yet too small and
-situational to become a Skill, MCP or always-on agent rule.
+situational to justify a Skill, MCP or always-on agent rule.
 
 They may be a reasoning constraint that changes the answer, a teaching style
 you carefully refined, a professional brief, or an output structure that
@@ -100,6 +112,8 @@ membership; preview updates are installed manually.
 - [x] **Local macOS foundation** — search, templates, editor and bilingual UI.
 - [ ] **Windows version** — the first post-macOS platform target.
 - [ ] **Voice quick match** — speak a few remembered words to retrieve an Arrow.
+- [ ] **Network prompt search** — search integrated prompt platforms after local
+  Arrows, then use a result once or internalize it into the local library.
 - [ ] **Quiver Sync** — optional cross-device sync with local-first reads.
 - [ ] **AI-assisted templating** — suggest which elements should become slots.
 - [ ] **Prompt community** — publish, discover, share and remix templates.
