@@ -57,7 +57,7 @@ tools or act automatically, promote it to a workflow.
 ## How does it work?
 
 1. Save prompts in a dedicated folder as `.md` files.
-2. Press the global hotkey—`⌥Space` by default.
+2. Press the global hotkey—`⌃⌘Space` by default on macOS.
 3. Search by whatever words you remember.
 4. Fill any slots and press `Return` to copy the completed prompt.
 
@@ -86,11 +86,15 @@ source and internal project history are maintained privately.
 
 ## How do I install the Community Preview?
 
-Open [Releases](https://github.com/Ares960826/Quiver/releases), then:
+Go straight to the [current Community Preview release](https://github.com/Ares960826/Quiver/releases/tag/v0.1.0-preview.1), or download your build directly:
 
-1. Download `Quiver_0.1.0_aarch64.dmg` for Apple Silicon or
-   `Quiver_0.1.0_x64.dmg` for Intel.
-2. Verify the download with `SHA256SUMS.txt` and drag Quiver to Applications.
+| Mac | Direct download |
+|---|---|
+| Apple Silicon (M1–M4) | [Download `Quiver_0.1.0_aarch64.dmg`](https://github.com/Ares960826/Quiver/releases/download/v0.1.0-preview.1/Quiver_0.1.0_aarch64.dmg) |
+| Intel | [Download `Quiver_0.1.0_x64.dmg`](https://github.com/Ares960826/Quiver/releases/download/v0.1.0-preview.1/Quiver_0.1.0_x64.dmg) |
+
+1. Choose the build matching your Mac above.
+2. Verify it with [`SHA256SUMS.txt`](https://github.com/Ares960826/Quiver/releases/download/v0.1.0-preview.1/SHA256SUMS.txt), then drag Quiver to Applications.
 3. Try to open it once. If macOS blocks it, go to **System Settings → Privacy &
    Security → Open Anyway**, then confirm **Open**.
 
