@@ -6,33 +6,32 @@
 
 **A local-first prompt manager and reusable template launcher for macOS.**
 
-![From painstaking prompt writing, through slot extraction and an Arrow saved in a quiver, to fast reuse on the next task](assets/readme/reuse-story.jpg)
-
 ## Why Quiver?
 
-Still keeping your best prompts scattered across Notion, Typora and Obsidian?
-Still hunting them down and copy-pasting line by line—your little finger did
-not sign up for a full-time shortcut job.
+Still scattering your best prompts across Notion, Typora and Obsidian? One
+copy here, a newer copy there, and `final-final-really-final` somewhere else?
+Beautifully archived. Functionally missing the moment you need it.
 
-A prompt you spent an hour polishing works brilliantly once, then disappears
-before the next similar task. The actual job takes five minutes; rebuilding
-the prompt takes two hours.
+Still hunting, selecting and copy-pasting line by line? Your `⌘C` and `⌘V` are
+building impressive careers; the actual work has not even started. Five-minute
+task, two-hour prompt—AI did not work overtime, but somehow you did.
 
-Quiver gives valuable wording a permanent launchpad. Save it once as an Arrow,
-carve the changing words into slots, and next time fill only what is new:
-search, complete, launch.
+And that prompt you spent an hour polishing—did it really deserve one brilliant
+performance and immediate retirement? Today the topic changes, tomorrow the
+audience or language changes, but the reasoning frame, tone and output structure
+are still the valuable part. Why rewrite the brain just because three words
+changed?
 
-Some prompts are too valuable to reconstruct from memory, yet too small and
-situational to justify a Skill, MCP or always-on agent rule.
+That is why Quiver exists. Save what worked as an **Arrow**, carve the changing
+pieces into slots, and next time fill only what is new: search, complete,
+launch.
 
-They may be a reasoning constraint that changes the answer, a teaching style
-you carefully refined, a professional brief, or an output structure that
-already works. Quiver keeps that wording exact, searchable and dormant until
-you choose it.
+Too small for a Skill or MCP? Perfect. No slots at all? Also perfect. Quiver
+keeps quick snippets, complete prompts, reusable templates and long specialist
+instructions exact, searchable and dormant until you choose them—never sitting
+in every conversation, quietly biasing the context.
 
-It is also a general prompt manager: short snippets, complete prompts, reusable
-templates and long specialist instructions all live in the same lightweight
-library.
+![From painstaking prompt writing, through slot extraction and an Arrow saved in a quiver, to fast reuse on the next task](assets/readme/reuse-story.jpg)
 
 ## What is an Arrow?
 
