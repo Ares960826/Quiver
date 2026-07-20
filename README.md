@@ -57,7 +57,7 @@ tools or act automatically, promote it to a workflow.
 ## How does it work?
 
 1. Save prompts in a dedicated folder as `.md` files.
-2. Press the global hotkey—`⌃⌘Space` by default on macOS.
+2. Press your configured global hotkey.
 3. Search by whatever words you remember.
 4. Fill any slots and press `Return` to copy the completed prompt.
 
