@@ -8,28 +8,20 @@
 
 ## Why Quiver?
 
-Still scattering your best prompts across Notion, Typora and Obsidian? One
-copy here, a newer copy there, and `final-final-really-final` somewhere else?
-Beautifully archived. Functionally missing the moment you need it.
+Still keeping the prompts you collect in Notion, Typora or Obsidian? Still
+copying and pasting them by hand, again and again—how is that little finger
+doing? Found the perfect prompt once, used it once, then lost it again?
 
-Still hunting, selecting and copy-pasting line by line? Your `⌘C` and `⌘V` are
-building impressive careers; the actual work has not even started. Five-minute
-task, two-hour prompt—AI did not work overtime, but somehow you did.
+Spent an hour polishing a prompt only to rewrite it next time? Five minutes of
+work, two hours of prompt?
 
-And that prompt you spent an hour polishing—did it really deserve one brilliant
-performance and immediate retirement? Today the topic changes, tomorrow the
-audience or language changes, but the reasoning frame, tone and output structure
-are still the valuable part. Why rewrite the brain just because three words
-changed?
+Try **Quiver**: save a prompt as an **Arrow**, carve the changing parts into
+slots, then search, fill and launch. Reuse the same scaffold with new details,
+or share it so someone else can do the same.
 
-That is why Quiver exists. Save what worked as an **Arrow**, carve the changing
-pieces into slots, and next time fill only what is new: search, complete,
-launch.
-
-Too small for a Skill or MCP? Perfect. No slots at all? Also perfect. Quiver
-keeps quick snippets, complete prompts, reusable templates and long specialist
-instructions exact, searchable and dormant until you choose them—never sitting
-in every conversation, quietly biasing the context.
+It is also a lightweight general prompt manager: snippets, complete prompts,
+fillable templates and long specialist instructions all fit. Too small for a
+Skill or MCP, but too useful to keep rewriting? That is exactly Quiver's place.
 
 ![From painstaking prompt writing, through slot extraction and an Arrow saved in a quiver, to fast reuse on the next task](assets/readme/reuse-story.jpg)
 
