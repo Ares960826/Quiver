@@ -64,6 +64,62 @@ tools or act automatically, promote it to a workflow.
 Quiver fuzzy-searches titles, tags, groups and prompt bodies. Recently and
 frequently used Arrows naturally rise to the top, without a separate mode.
 
+## What does it look like?
+
+<table>
+  <tr>
+    <td width="42%" rowspan="2" valign="top">
+      <img src="assets/showcase/arrow-library-multilingual.png" width="100%" alt="A Quiver library containing complete prompts and reusable templates in several languages">
+      <br><sub><strong>One quiver, many kinds of Arrow.</strong> Keep complete prompts, fillable templates and multilingual material in the same searchable library.</sub>
+    </td>
+    <td width="58%" valign="top">
+      <img src="assets/showcase/template-editor-clipboard-en.png" width="100%" alt="English template editor using choice, text and clipboard slots">
+      <br><sub><strong>Turn repeated wording into slots.</strong> Mix choices, free text and the current clipboard in one reusable template.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="58%" valign="top">
+      <img src="assets/showcase/template-editor-clipboard-zh.png" width="100%" alt="Chinese template editor with reusable audience, tone and clipboard slots">
+      <br><sub><strong>The scaffold is language-independent.</strong> Write and organize Arrows in the language your task actually needs.</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/showcase/group-picker.png" width="100%" alt="Choosing an existing group while creating a prompt">
+      <br><sub><strong>Organize without bookkeeping.</strong> Reuse an existing group or type a new one while you write.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/showcase/meta-template-output.png" width="100%" alt="Choosing whether an Arrow copies text or creates another prompt">
+      <br><sub><strong>An Arrow can make another Arrow.</strong> A meta-template renders its filled scaffold directly into a new local prompt.</sub>
+    </td>
+  </tr>
+</table>
+
+## Any tricks worth knowing?
+
+### Capture now, organize later
+
+Copied something worth keeping? Summon Quiver and click **Capture**, or press
+`⌘⇧V`. The clipboard becomes an Arrow immediately: Quiver generates a title
+and adds the `#收纳箱` (Capture) tag without opening an import dialog. Search
+for `收纳箱` later when you are ready to rename, group or turn it into a
+template.
+
+### Let an AI Agent stock the quiver
+
+The **Prompt folder** shown in Settings is Quiver's root library, and every
+Arrow is an ordinary Markdown file. You can therefore ask a filesystem-capable
+AI Agent to create, translate or reorganize many `.md` prompts directly inside
+that folder instead of importing them one by one. Quiver sees external changes
+the next time it is summoned; a bare Markdown file works, and `{{name}}` creates
+a fillable slot.
+
+Give the Agent only a dedicated prompt folder—not a general notes vault—and
+review its planned filenames before allowing a large batch write.
+
 ## What can you do today?
 
 - Summon Quiver above the app you are using with one customizable hotkey.
@@ -86,15 +142,15 @@ source and internal project history are maintained privately.
 
 ## How do I install the Community Preview?
 
-Go straight to the [current Community Preview release](https://github.com/Ares960826/Quiver/releases/tag/v0.1.0-preview.1), or download your build directly:
+Go straight to the [current Community Preview release](https://github.com/Ares960826/Quiver/releases/tag/v0.1.1-preview.1), or download your build directly:
 
 | Mac | Direct download |
 |---|---|
-| Apple Silicon (M1–M4) | [Download `Quiver_0.1.0_aarch64.dmg`](https://github.com/Ares960826/Quiver/releases/download/v0.1.0-preview.1/Quiver_0.1.0_aarch64.dmg) |
-| Intel | [Download `Quiver_0.1.0_x64.dmg`](https://github.com/Ares960826/Quiver/releases/download/v0.1.0-preview.1/Quiver_0.1.0_x64.dmg) |
+| Apple Silicon (M1–M4) | [Download `Quiver_0.1.1_aarch64.dmg`](https://github.com/Ares960826/Quiver/releases/download/v0.1.1-preview.1/Quiver_0.1.1_aarch64.dmg) |
+| Intel | [Download `Quiver_0.1.1_x64.dmg`](https://github.com/Ares960826/Quiver/releases/download/v0.1.1-preview.1/Quiver_0.1.1_x64.dmg) |
 
 1. Choose the build matching your Mac above.
-2. Verify it with [`SHA256SUMS.txt`](https://github.com/Ares960826/Quiver/releases/download/v0.1.0-preview.1/SHA256SUMS.txt), then drag Quiver to Applications.
+2. Verify it with [`SHA256SUMS.txt`](https://github.com/Ares960826/Quiver/releases/download/v0.1.1-preview.1/SHA256SUMS.txt), then drag Quiver to Applications.
 3. Try to open it once. If macOS blocks it, go to **System Settings → Privacy &
    Security → Open Anyway**, then confirm **Open**.
 
