@@ -66,19 +66,18 @@ frequently used Arrows naturally rise to the top, without a separate mode.
 
 ## What does it look like?
 
+<p align="center">
+  <img src="assets/showcase/arrow-library-multilingual.png" width="430" alt="A Quiver library containing complete prompts and reusable templates in several languages">
+  <br><sub><strong>One quiver, many kinds of Arrow.</strong> Keep complete prompts, fillable templates and multilingual material in the same searchable library.</sub>
+</p>
+
 <table>
   <tr>
-    <td width="42%" rowspan="2" valign="top">
-      <img src="assets/showcase/arrow-library-multilingual.png" width="100%" alt="A Quiver library containing complete prompts and reusable templates in several languages">
-      <br><sub><strong>One quiver, many kinds of Arrow.</strong> Keep complete prompts, fillable templates and multilingual material in the same searchable library.</sub>
-    </td>
-    <td width="58%" valign="top">
+    <td width="50%" valign="top">
       <img src="assets/showcase/template-editor-clipboard-en.png" width="100%" alt="English template editor using choice, text and clipboard slots">
       <br><sub><strong>Turn repeated wording into slots.</strong> Mix choices, free text and the current clipboard in one reusable template.</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="58%" valign="top">
+    <td width="50%" valign="top">
       <img src="assets/showcase/template-editor-clipboard-zh.png" width="100%" alt="Chinese template editor with reusable audience, tone and clipboard slots">
       <br><sub><strong>The scaffold is language-independent.</strong> Write and organize Arrows in the language your task actually needs.</sub>
     </td>

@@ -61,19 +61,18 @@ Quiver 会同时模糊搜索标题、标签、分组和正文。最近常用的 
 
 ## Showcase｜实际使用是什么样？
 
+<p align="center">
+  <img src="assets/showcase/arrow-library-multilingual.png" width="430" alt="同一个 Quiver 箭袋中收纳了多语言的完整 Prompt 与可复用模板">
+  <br><sub><strong>一个箭袋，多种 Arrow。</strong>完整 Prompt、可填写模板和多语言内容都在同一个搜索库中，不必拆成几套管理方式。</sub>
+</p>
+
 <table>
   <tr>
-    <td width="42%" rowspan="2" valign="top">
-      <img src="assets/showcase/arrow-library-multilingual.png" width="100%" alt="同一个 Quiver 箭袋中收纳了多语言的完整 Prompt 与可复用模板">
-      <br><sub><strong>一个箭袋，多种 Arrow。</strong>完整 Prompt、可填写模板和多语言内容都在同一个搜索库中，不必拆成几套管理方式。</sub>
-    </td>
-    <td width="58%" valign="top">
+    <td width="50%" valign="top">
       <img src="assets/showcase/template-editor-clipboard-en.png" width="100%" alt="在英文模板编辑器中同时使用选项、文字和剪贴板空格子">
       <br><sub><strong>把反复改写的部分挖成空格子。</strong>一份模板可以同时组合下拉选项、自由输入和当前剪贴板。</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="58%" valign="top">
+    <td width="50%" valign="top">
       <img src="assets/showcase/template-editor-clipboard-zh.png" width="100%" alt="使用受众、语气和剪贴板空格子的中文模板编辑器">
       <br><sub><strong>模板架子不绑定语言。</strong>任务需要什么语言，就用什么语言编写、整理和复用 Arrow。</sub>
     </td>
